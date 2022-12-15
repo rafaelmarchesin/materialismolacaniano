@@ -446,9 +446,9 @@ body.section-show .transition-mask:before{
 	margin-top:190px;
 }
 .front-heading > h2{
-	font-size:55px;
+	font-size:45px;
 	font-weight:lighter;
-	letter-spacing:15px;
+	letter-spacing:5px;
 	position:relative;
 	position:relative;
 	line-height:1em;
@@ -456,7 +456,7 @@ body.section-show .transition-mask:before{
 	*display:inline;
 	*zoom:1;
 	z-index:10;
-	color:#999;
+	color:#e15244;
 	font-family: 'Playfair Display', serif;
 	font-style:italic;
 }
@@ -509,7 +509,7 @@ body.section-show .transition-mask:before{
 	display:block;
 	width:100%;
 	font-family:Hind, sans-serif;
-	color:#CCC;
+	color:rgb(255, 0, 0);
 	text-align:center;
 	font-size:24px;
 	letter-spacing:25px;
@@ -595,7 +595,7 @@ body.section-show .transition-mask:before{
 	-moz-transition:all .3s ease;
 	transition:all .3s ease;
 	position:relative;
-	color:#999;
+	color:#e15244;
 	text-align:left;
 	text-transform:uppercase;
 	letter-spacing:3px;
@@ -1795,7 +1795,7 @@ body .symp-btn{
 		padding-bottom:110px;
 	}
 	.front-heading > h2{
-		font-size:50px;
+		font-size:40px;
 	}
 	.front-person-img{
 		height:360px;
