@@ -1911,6 +1911,7 @@ body .symp-btn{
 		transform:rotate(-45deg) translateY(100px);
 		position:absolute;
 		bottom:0;
-		left:-40px;
+		left:-50px;
+		top: -50px;
 	}
 }
